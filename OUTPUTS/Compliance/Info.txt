@@ -1,0 +1,5 @@
+SKU: 333154, 333273
+Full product name: 125kHz RFID board with UART, 125kHz RFID board with easyC
+Country of origin: Croatia
+HS tariff code: 85235910
+EAN/UPC barcode: 732388663705, 732388661701
